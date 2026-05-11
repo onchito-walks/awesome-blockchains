@@ -35,6 +35,8 @@ Contents:
 
 
 
+
+- [**RustChain**](https://github.com/Scottcjn/RustChain) — Proof-of-Antiquity blockchain where vintage hardware earns higher mining rewards. Native RTC token.
 ## What's News?
 
 For blockchain books, see the new [**Best of Crypto Books page »**](https://openblockchains.github.io/crypto-books/)
